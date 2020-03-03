@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8524b5a9.chunk.css",
+    "main.js": "/static/js/main.47864c17.chunk.js",
+    "main.js.map": "/static/js/main.47864c17.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4288ddea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4288ddea.js.map",
+    "static/js/2.2f2bb41c.chunk.js": "/static/js/2.2f2bb41c.chunk.js",
+    "static/js/2.2f2bb41c.chunk.js.map": "/static/js/2.2f2bb41c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2b219c316552f387ac6e506d086879bd.js": "/precache-manifest.2b219c316552f387ac6e506d086879bd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8524b5a9.chunk.css.map": "/static/css/main.8524b5a9.chunk.css.map",
+    "static/js/2.2f2bb41c.chunk.js.LICENSE.txt": "/static/js/2.2f2bb41c.chunk.js.LICENSE.txt",
+    "static/media/Espressiflogo.svg": "/static/media/Espressiflogo.84f501e3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4288ddea.js",
+    "static/js/2.2f2bb41c.chunk.js",
+    "static/css/main.8524b5a9.chunk.css",
+    "static/js/main.47864c17.chunk.js"
+  ]
+}
